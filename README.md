@@ -1,1 +1,2 @@
-# This repository contains only my Java programming exersices
+# This repository contains only my Java programming pratices
+
